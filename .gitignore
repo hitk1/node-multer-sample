@@ -1,0 +1,8 @@
+node_modules
+_dist/
+dist/
+tmp/uploads/*.csv
+
+.env
+
+.vscode
